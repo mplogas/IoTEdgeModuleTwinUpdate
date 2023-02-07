@@ -1,6 +1,6 @@
 # Updating an IoT Edge device Module Twin with an Azure Function
 
-### Disclaimer: This sample does not incorporate any security best-practices! The main goal of this demo is to highlight the technical requirements / steps required to achieve that task. The Azure Function is allows anonymous access, so *ANYONE* can modify the module! 
+### Disclaimer: This sample does not incorporate any security best-practices! The main goal of this demo is to highlight the technical requirements and steps required to achieve thist task. The Azure Function allows anonymous access, so *ANYONE* can modify the module! 
 
 ### Requirements:
 
