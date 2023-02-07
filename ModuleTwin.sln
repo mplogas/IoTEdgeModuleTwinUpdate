@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{3DE0520A-6186-41AA-8513-E9C0EC6EECF0}"
 	ProjectSection(SolutionItems) = preProject
 		ModuleTwin.Device\.env = ModuleTwin.Device\.env
+		LICENSE.md = LICENSE.md
 		README.md = README.md
 	EndProjectSection
 EndProject
